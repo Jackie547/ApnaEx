@@ -10,7 +10,7 @@ API_HASH = os.environ.get("API_HASH","f013b1c116f9bbf86a3246ffb4a959b8")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 # ------------------------------------------------
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "@BLEACHR_bot")
-BOT_TEXT = " EXTRACTOR"
+BOT_TEXT = "GOD FATHER_bot."
 # ------------------------------------------------
 OWNER_ID = int(os.environ.get("OWNER_ID", "6934631095")
 # ------------------------------------------------
