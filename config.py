@@ -3,19 +3,19 @@ from os import getenv
 
 
 # ------------------------------------------------
-API_ID = int(os.environ.get("API_ID", "15964777"))
+API_ID = int(os.environ.get("API_ID", "31605369"))
 # ------------------------------------------------
-API_HASH = os.environ.get("API_HASH","ef448f85b780cdf26f8ffe390a5d8262")
+API_HASH = os.environ.get("API_HASH","f8b54f0c81481ebf1593adebb073d844")
 # ------------------------------------------------
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 # ------------------------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@@Downloaderapna10bot")
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "@MYLOVE7564BOT")
 BOT_TEXT = "Downloader 10"
 # ------------------------------------------------
-OWNER_ID = int(os.environ.get("OWNER_ID", "944358553"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "Your ID: 8282839142"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002683859662"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003705623236"))
 
 # //FORCE_CHANNEL_ID
 CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002471859014")) 
